@@ -13,7 +13,7 @@ function Footer() {
           <FaInstagramSquare className="m-1 texteal-600  text-2xl rounded-xl" />
         </div>
         <div className="font-bold text-white">
-          | Developed by ❤️ Saroj <span className="text-teal-600 ">Kumar</span>
+          | Developed by ❤️ Harsh <span className="text-teal-600 ">Raj Singh</span>
         </div>
       </div>
     </div>
